@@ -1,0 +1,43 @@
+from typing_extensions import Required
+
+
+READABLE
+SCALABLE --> Time, Space.
+
+TIME COMPLEXITY:
+> Amount of tyme it takes to run an algorithm
+> Algorithm runs fast, better time complexity.
+
+
+SPACE COMPLEXITY:
+>Amount of extra space our algorithm requires
+>Algorithm takes less space, better space complexity
+
+
+ ------------------------- BIG O -------------------------
+
+| Excelente   | 
+| Good,       |
+| Fair        |
+| Bad         |
+| Horrible    |
+
+
+ ---------- DESCRIPTION                          ----------
+Big O notation is used in Computer Science to describe the performance or
+complexity of an algorithm. Big O is used to describe the Execution time Required
+or the space used( eg. in memory or disk) by and algorithm. 
+
+To measure the effiency of and algorithm, we need to consider two things
+Time Complexity: How much time does it take to run completely
+
+it's like math except it's and awesome concept to understand, not boring kind of math
+
+
+                                        GIB O 
+----> It doesn't depends on time, it depends on how many steps we are performing
+----> The main focus is to calculate the amount of work we do or the numbers of comparisons we perform
+
+Langue using how long an algorithms or a function takes to run.
+Depens more on its actual code  is operations and comparisons than the hardware and software
+
