@@ -9,7 +9,7 @@ def checkStudent(student_list1):
 
 checkStudent(student_list1)
 '''
-#complexity of this, 
+#Complexity of this, 
 It follows lineal Time, Lineal Pattern
 The complecity is BigO(n)
 
